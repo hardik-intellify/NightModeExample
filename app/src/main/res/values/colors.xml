@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ec232e</color>
+    <color name="colorPrimaryDark">#B91720</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundColor">#FCFCFC</color>
+    <color name="textColor">#424343</color>
+    <color name="tintColor">#424343</color>
+    <color name="buttonColor">#424343</color>
+
+    <color name="darkColor">#424343</color>
+
+    <color name="darkModePrimary">#212121</color>
+    <color name="darkModePrimaryDark">#000000</color>
+    <color name="darkModeBackgroundColor">#303030</color>
+    <color name="darkModeTextColor">#FFFFFF</color>
+    <color name="darkModeTintColor">#FFFFFF</color>
+    <color name="darkModeButtonColor">#A5A7A7</color>
+</resources>
